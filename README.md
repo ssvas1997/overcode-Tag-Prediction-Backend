@@ -4,7 +4,7 @@ Stack Overflow Question Tag Prediction api deployed on heroku
 ### Endpoint 
 - https://overcode-tag-ml-api.herokuapp.com/
 - GET Parmeters
-  q="<your question>"
+  - q=[your question]
 
 ### Example request
 ```
